@@ -19,6 +19,7 @@ import javax.swing.SwingUtilities;
 public class SlidingBlocks extends JPanel{ //jpanel disegna la griglia in un pannello dedicato
 
 	
+	//provaaaaaaaaaaaaa
 	
 	//Grandezza del nostro gioco sliding block
 	private int size;
